@@ -2,7 +2,7 @@
 A collection of HTML snippets (and templates) styled with Tailwind CSS.
 
 ## About
-Aiming at making this a repository for (some of) the HTML snippets provided on the website https://www.pagesection.com/templates  
+Aiming at making this a repository for (some of) the editable HTML snippets provided on the website https://www.pagesection.com/templates  
 
 <p align="center">
   <a href="https://pagesection.com/editor" target="_blank">
